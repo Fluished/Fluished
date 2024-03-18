@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Fluished/Fluished** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,22 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 
-GIF SECTION
-
-If you wanna know how i made this gif
-
-I made this with my repo: (https://github.com/DavidsDvm/GitHub_ProfileReadmeGIF)
-There i made and page with the GIF content, later i record my screen with OBS
-after that i converter the video from mp4 to gif
-ur welcome ;) 
--->
-<a href="https://github.com/DavidsDvm">![DavidsDvm Profile GIF](./assets/profile_presentation.gif)</a>
-
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
   <p align="center">
-    <a href="https://stackoverflow.com/users/story/16787643">
+    <a href="(https://github.com/Fluished)">
       <img src="https://img.shields.io/badge/stack%20overflow-7cebf5?&style=for-the-badge&logo=stack%20overflow&logoColor=black">
     </a>
     <a href="https://www.davidsdvm.com/">

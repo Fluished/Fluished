@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 <!-- Social icons section -->
 
 <!-- Description about me -->
-<h2 align="center"> ABOUT ME:</h2>
+<h2 align="center" style="font-family:'Courier New'"> ABOUT ME:</h2>
 I am from <strong>Philippines 🇵🇭</strong> !<br />
 I'm a guy who hates programming...<br />
 <br/><br/> 
 
 <!-- Weather table -->
 
-<h2 align="center"> PHILIPPINE'S WEATHER ⛅ </h2>
+<h2 align="center" style="font-family:'Courier New'"> PHILIPPINE'S WEATHER ⛅ </h2>
 <table align="center" style="width:50%">
     <tr style="text-align:center">
         <th>Weather</th>
@@ -33,7 +33,7 @@ I'm a guy who hates programming...<br />
         <th>Humidity</th>
     </tr>
     <tr style="text-align:center">
-        <td><b>few clouds</b><img width="15" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;02d.png></td>
+        <td><b>cloudy</b></td>
         <td><b>26°C</b></td>
         <td><b>06:01 AM</b></td>
         <td><b>06:07 PM</b></td>
@@ -68,14 +68,14 @@ I'm a guy who hates programming...<br />
 
 <!-- Languages and Skills section -->
 
-<h1 align="center"> LANGUAGES/FRAMEWORKS I KNOW: </h1>
+<h1 align="center"style="font-family:'Courier New'"> LANGUAGES/FRAMEWORKS I KNOW: </h1>
 <p align="center">
   <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
   <code><a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img alt="C#" title="Java" src="./assets/csharp.png" height="42"></a></code>
 </p>
 <br>
 
-<h1 align="center"> LANGUAGES/FRAMEWORKS I'M LEARNING: </h1>
+<h1 align="center" style="font-family:'Courier New'"> LANGUAGES/FRAMEWORKS I'M LEARNING: </h1>
 <p align="center">
   <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
@@ -83,7 +83,7 @@ I'm a guy who hates programming...<br />
 </p>
 <br>
 
-<h1 align="center"> ENVIRONMENTS I WORK WITH: </h1>
+<h1 align="center" style="font-family:'Courier New'"> ENVIRONMENTS I WORK WITH: </h1>
 <p align="center">
   <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
   <code><a href="https://code.visualstudio.com/"><img alt="VS Code" title="VS Code" src="./assets/vscode.png" height="42"></a></code>

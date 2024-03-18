@@ -99,6 +99,7 @@ I'm a guy who hates programming...<br />
 <p align="center">
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Fluished's Github Stats" src="https://github-readme-stats-nine-lovat-64.vercel.app/api?username=Fluished\&rank_icon=github" height="192px"/></a>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
   <!--<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Fluished's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fluished&layout=compact" height="192px"/></a>-->
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.

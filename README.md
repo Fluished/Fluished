@@ -23,7 +23,7 @@ I'm a guy who hates programming...<br />
 
 <!-- Weather table -->
 
-<h2 align="center" style="font-family:'Courier New'"> PHILIPPINE'S WEATHER ⛅ </h2>
+<h2 align="center" style="font-family:'Courier New'"> PHILIPPINE'S WEATHER </h2>
 <table align="center" style="width:50%">
     <tr style="text-align:center">
         <th>Weather</th>

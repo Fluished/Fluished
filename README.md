@@ -33,11 +33,11 @@ I'm a guy who hates programming...<br />
         <th>Humidity</th>
     </tr>
     <tr style="text-align:center">
-        <td><b>partly cloudy</b></td>
-        <td><b>25°C</b></td>
+        <td><b>mostly cloudy</b></td>
+        <td><b>31°C</b></td>
         <td><b>06:01 AM</b></td>
         <td><b>06:07 PM</b></td>
-        <td><b>42%</b></td>
+        <td><b>53%</b></td>
     </tr>
 </table>
 

@@ -88,6 +88,7 @@ I'm a guy who hates programming...<br />
   <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
   <code><a href="https://code.visualstudio.com/"><img alt="VS Code" title="VS Code" src="./assets/vscode.png" height="42"></a></code>
   <code><a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" title="Visual Studio" src="./assets/vstudio.png" height="42"></a></code>
+  <code><a href="https://xubuntu.org/"><img alt="Xubuntu" title="Xubuntu" src="./assets/xubuntu.png" height="42"></a></code>
 </p>
 <br>
 

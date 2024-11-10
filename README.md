@@ -22,7 +22,7 @@ I'm a guy who hates programming...<br />
 <br/><br/> 
 
 <!-- Weather table -->
-
+<!--
 <h2 align="center" style="font-family:'Courier New'"> PHILIPPINE'S WEATHER </h2>
 <table align="center" style="width:50%">
     <tr style="text-align:center">
@@ -40,6 +40,7 @@ I'm a guy who hates programming...<br />
         <td><b>75%</b></td>
     </tr>
 </table>
+-->
 
 ### MORE ABOUT ME:
 <table style="border: none;">

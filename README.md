@@ -81,6 +81,7 @@ I'm a guy who hates programming...<br />
 <p align="center">
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
+  <code><a href="https://kotlinlang.org/docs/getting-started.html"><img alt="Kotlin" title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="42"></a></code>
 </p>
 <br>
 

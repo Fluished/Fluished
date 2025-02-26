@@ -87,7 +87,7 @@ I'm a guy who hates programming...<br />
 
 <h1 align="center" style="font-family:'Courier New'"> ENVIRONMENTS I WORK WITH: </h1>
 <p align="center">
-  <code><a href="https://xubuntu.org/"><img alt="Xubuntu" title="Xubuntu" src="./assets/xubuntu.png" height="42"></a></code>
+  <code><a href="https://xubuntu.org/"><img alt="Xubuntu" title="Xubuntu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Xubuntu_logo.svg/2048px-Xubuntu_logo.svg.png" height="42"></a></code>
   <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
   <code><a href="https://code.visualstudio.com/"><img alt="VS Code" title="VS Code" src="./assets/vscode.png" height="42"></a></code>
   <code><a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" title="Visual Studio" src="./assets/vstudio.png" height="42"></a></code>  

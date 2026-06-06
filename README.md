@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Description about me -->
 <h2 align="center" style="font-family:'Courier New'"> ABOUT ME:</h2>
-I am from <strong>Philippines 🇵🇭</strong> !<br />
-I'm a guy who hates programming...<br />
+<p align="center">I am from <strong>Philippines 🇵🇭</strong> !</p>
 <br/><br/> 
 
 <!-- Weather table -->
@@ -44,35 +43,37 @@ I'm a guy who hates programming...<br />
 
 <!-- Languages and Skills section -->
 
-<h1 align="center"style="font-family:'Courier New'"> LANGUAGES/FRAMEWORKS I KNOW: </h1>
+<h1 align="center"style="font-family:'Courier New'"> LANGUAGES/FRAMEWORKS I WORK WITH: </h1>
 <p align="center">
   <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
   <code><a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img alt="C#" title="Java" src="./assets/csharp.png" height="42"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>  
-</p>
-<br>
-
-<h1 align="center" style="font-family:'Courier New'"> LANGUAGES/FRAMEWORKS I'M LEARNING: </h1>
-<p align="center">
-  <code><a href="https://kotlinlang.org/docs/getting-started.html"><img alt="Kotlin" title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="42"></a></code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
+<code><a href="https://kotlinlang.org/docs/getting-started.html"><img alt="Kotlin" title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="42"></a></code>
   <code><a href="https://dart.dev/docs"><img alt="Dart" title="Dart" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" height="42"></a></code>
+  <code><a href="https://react.dev/"><img alt="ReactJS" title="ReactJS" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/reactjs.svg" height="42"></a></code>
+  <code><a href="https://nextjs.org/"><img alt="NextJS" title="NextJS" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nextjs.svg" height="42"></a></code>
+  <code><a href="https://www.postgresql.org/"><img alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/postgresql.svg" height="42"></a></code>
+  <br>
+  <code><a href="https://www.mysql.com/"><img alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/mysql.webp" height="42"></a></code>
+  <code><a href="https://sqlite.org/"><img alt="Sqlite" title="Sqlite" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/sqlitebrowser.svg" height="42"></a></code>
 </p>
 <br>
 
 <h1 align="center" style="font-family:'Courier New'"> ENVIRONMENTS I WORK WITH: </h1>
 <p align="center">
-  <code><a href="https://xubuntu.org/"><img alt="Xubuntu" title="Xubuntu" src="./assets/xubuntu.png" height="42"></a></code>
+  <code><a href="https://xubuntu.org/"><img alt="Xubuntu" title="Xubuntu" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/xubuntu-linux.svg" height="42"></a></code>
   <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
   <code><a href="https://code.visualstudio.com/"><img alt="VS Code" title="VS Code" src="./assets/vscode.png" height="42"></a></code>
-  <code><a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" title="Visual Studio" src="./assets/vstudio.png" height="42"></a></code>  
+  <code><a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" title="Visual Studio" src="./assets/vstudio.png" height="42"></a></code>
+  <code><a href="[https://sqlite.org/](https://www.figma.com/)"><img alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/figma.svg" height="42"></a></code>
 </p>
 <br>
 
 <!-- GitHub stats section -->
 
-## GITHUB STATS
+<h2 align="center" style="font-family:'Courier New'"> GITHUB STATS:</h2>
 
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">

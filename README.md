@@ -42,31 +42,6 @@ I'm a guy who hates programming...<br />
 </table>
 -->
 
-### MORE ABOUT ME:
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <ul>
-        <li>
-          I’m currently studying my Computer Science Degree Course;
-        </li>
-        <li>
-          I’m currently learning Front-End Development; 
-        </li>
-        <li>
-          Most of my projects are available on [Github](https://github.com/Fluished?tab=repositories); 
-        </li>
-        <li>
-          When I am free, I like to play games in my computer;
-        </li>
-    </td>
-    <td style="border: none;">
-      <img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="450vw"/>
-    </td>
-  </tr>
-</table>
-<br><br><br>
-
 <!-- Languages and Skills section -->
 
 <h1 align="center"style="font-family:'Courier New'"> LANGUAGES/FRAMEWORKS I KNOW: </h1>
